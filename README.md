@@ -171,6 +171,3 @@ per game. Both sides ran several games in parallel, so this is indicative.
   and Extensive Form," Chapter 3, Algorithmic Game Theory, 2007.
 - B. Codenotti, S. De Rossi, and M. Pagan, "An Experimental Analysis of
   Lemke-Howson Algorithm," arXiv:0811.3247, 2008.
-
-
-Co-authored-by: Claude <noreply@anthropic.com>
